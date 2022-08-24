@@ -10,4 +10,4 @@
 
 ## Demo
 
-<!-- [live Demo](https://ecommerce-furniture-website.netlify.app/) -->
+[live Demo](https://ecommerce-furniture-with-redux-website.vercel.app/)
