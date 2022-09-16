@@ -1,12 +1,13 @@
-
-import './App.css';
+import "./App.css";
 import "react-loader-spinner/dist/loader/css/react-spinner-loader.css";
-import 'react-modern-drawer/dist/index.css'
-import { Provider } from 'react-redux'
-import { store } from './redux/store';
-import Pages from './pages';
+import "react-modern-drawer/dist/index.css";
+import { Provider } from "react-redux";
+import { store } from "./redux/store";
+import Pages from "./pages";
 
 function App() {
+  console.log("====================================");
+  console.log("====================================");
   return (
     <Provider store={store}>
       <Pages />
