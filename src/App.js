@@ -6,8 +6,6 @@ import { store } from "./redux/store";
 import Pages from "./pages";
 
 function App() {
-  console.log("====================================");
-  console.log("====================================");
   return (
     <Provider store={store}>
       <Pages />
