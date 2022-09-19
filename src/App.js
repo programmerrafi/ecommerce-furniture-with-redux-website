@@ -5,6 +5,10 @@ import { Provider } from "react-redux";
 import { store } from "./redux/store";
 import Pages from "./pages";
 
+console.log("====================================");
+console.log("hello");
+console.log("====================================");
+
 function App() {
   return (
     <Provider store={store}>
