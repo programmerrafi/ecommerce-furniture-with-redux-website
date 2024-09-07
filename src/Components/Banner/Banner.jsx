@@ -87,7 +87,7 @@ const Banner = () => {
               <div className="w-[95%] md:w-full">
                 <form className="flex border border-black ">
                   <input
-                    className="text-white w-full px-3 bg-transparent focus:outline-none"
+                    className="text-black w-full px-3 bg-transparent focus:outline-none"
                     type="text"
                     name="seearch"
                     placeholder="Search your product here..."
@@ -135,11 +135,7 @@ const Banner = () => {
                               <b>Hello Rafi</b>
                             </p>
                             <p>
-                              This is a{" "}
-                              <a href="https://www.linkedin.com/in/mahadidev7/">
-                                me
-                              </a>
-                              .
+                              This is a <a href="#">me</a>.
                             </p>
                           </div>
                         </>
@@ -180,11 +176,7 @@ const Banner = () => {
                               <b>Hello Rafi</b>
                             </p>
                             <p>
-                              This is a{" "}
-                              <a href="https://www.linkedin.com/in/mahadidev7/">
-                                me
-                              </a>
-                              .
+                              This is a <a href="#">me</a>.
                             </p>
                           </div>
                         </>
@@ -226,11 +218,7 @@ const Banner = () => {
                               <b>Hello Rafi</b>
                             </p>
                             <p>
-                              This is a{" "}
-                              <a href="https://www.linkedin.com/in/mahadidev7/">
-                                me
-                              </a>
-                              .
+                              This is a <a href="#">me</a>.
                             </p>
                           </div>
                         </>

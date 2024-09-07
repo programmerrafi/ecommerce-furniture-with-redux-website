@@ -22,11 +22,8 @@ const Footer = () => {
               </p>
               <p className="text-md text-gray-300">
                 @ 2021{" "}
-                <a
-                  className="underline"
-                  href="https://mahadidev7-portfolio.web.app/"
-                >
-                  Mahadidev7
+                <a className="underline" href="#">
+                  apurba
                 </a>
                 . All rights reserved.
               </p>
@@ -104,31 +101,29 @@ const Footer = () => {
                   </li>
                   <li className="flex gap-5 text-md text-gray-300 items-center">
                     <span>
-                      <a href="mailto:mahadidev7@gmail.com">
+                      <a href="mailto:demo@gmail.com">
                         {" "}
                         <HiOutlineMail className="text-2xl" />
                       </a>
                     </span>
                     <span>
-                      <a href="mailto:mahadidev7@gmail.com">
-                        mdrafiprogrammer@gmailcom
-                      </a>
+                      <a href="mailto:demo@gmail.com">demo@gmailcom</a>
                     </span>
                   </li>
                   <li className="flex gap-5 text-md text-gray-300 items-center my-6 ml-3">
                     <span>
-                      <a href="mailto:mahadidev7@gmail.com">
+                      <a href="mailto:demo@gmail.com">
                         {" "}
                         <FaFacebookF className="text-2xl" />
                       </a>
                     </span>
                     <span>
-                      <a href="mailto:mahadidev7@gmail.com">
+                      <a href="mailto:demo@gmail.com">
                         <BsInstagram className="text-2xl" />{" "}
                       </a>
                     </span>
                     <span>
-                      <a href="mailto:mahadidev7@gmail.com">
+                      <a href="mailto:demo@gmail.com">
                         <AiOutlineTwitter className="text-2xl" />
                       </a>
                     </span>
